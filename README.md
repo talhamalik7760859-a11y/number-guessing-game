@@ -438,7 +438,7 @@ else:
 
 ---
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Issue: "Python not found"
 **Solution:** 
@@ -483,7 +483,7 @@ python -m unittest test_number_game.py -v
 
 ---
 
-## 📊 Project Statistics
+##  Project Statistics
 
 ### Code Metrics
 - **Total Lines of Code:** 250+
@@ -511,7 +511,7 @@ python -m unittest test_number_game.py -v
 
 ---
 
-## 📋 Submission Guidelines
+##  Submission Guidelines
 
 This project follows **Arch Technologies Submission Guidelines**:
 
@@ -562,7 +562,7 @@ This project follows **Arch Technologies Submission Guidelines**:
 
 ---
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 
 This project teaches:
 - ✅ **Object-Oriented Programming** - Class design and encapsulation
@@ -645,7 +645,7 @@ A: Yes! Create subclasses for different difficulties
 
 ---
 
-## 📄 File Manifest
+##  File Manifest
 
 ```
 number_guessing_game/
@@ -657,7 +657,7 @@ number_guessing_game/
 
 ---
 
-## 📊 Performance Benchmarks
+##  Performance Benchmarks
 
 ### Game Performance
 - Game initialization: < 1ms
